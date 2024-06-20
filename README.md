@@ -13,7 +13,7 @@ Sotware Engineering Student At Student in Universiti Teknologi Malaysia
 
 ### a. Picture, Headlines, Summary
 
-- **Picture:** ![Profile Picture](https://github.com/yourusername/yourrepository/blob/main/WhatsApp%20Image%202024-05-02%20at%2006.54.09_853c3cb4.jpg)
+- **Picture:** ![Profile Picture]WhatsApp Image 2024-05-02 at 06.54.09_853c3cb4.jpg
 - **Headlines:** Second Year Software Engineering Student in UTM
 - **Summary:** Passionate about leveraging technology to solve real-world problems.
 
