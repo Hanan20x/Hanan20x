@@ -11,7 +11,7 @@ Software Engineering Student At Universiti Teknologi Malaysia
 
 ### a. Picture, Headlines, Summary
 
-- **Picture:** ![Profile Picture]![WhatsApp Image 2024-05-02 at 06 54 09_853c3cb4](https://github.com/Hanan20x/Hanan20x/assets/142499378/020eb398-2bb4-49d5-b8d0-f164e4cd5d79)
+- **Picture:** [WhatsApp Image 2024-05-02 at 06 54 09_853c3cb4](https://github.com/Hanan20x/Hanan20x/assets/142499378/020eb398-2bb4-49d5-b8d0-f164e4cd5d79)
 
 - **Headlines:** Second Year Software Engineering Student in UTM
 - **Summary:** Passionate about leveraging technology to solve real-world problems.
