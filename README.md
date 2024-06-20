@@ -1,19 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hanan Osama
+# Hi! My name is Hanan Osama
+Software Engineering Student At Universiti Teknologi Malaysia
 ===================================================================================================================================
 
-Sotware Engineering Student At Student in Universiti Teknologi Malaysia
------------------------------------------------------------------------
-
-* 🌍  I'm based in Malaysia,Johor Bahru
+* 🌍  I'm based in Malaysia, Johor Bahru
 * ✉️  You can contact me at [hussein.h@graduate.utm.my](mailto:hussein.h@graduate.utm.my)
-* 🧠  I'm learning React,Angular
-* 🤝  I'm open to collaborating on Any Intersting Projects!!!
+* 🧠  I'm learning React, Angular
+* 🤝  I'm open to collaborating on any interesting projects!
 
 ## Portfolio Sections
 
 ### a. Picture, Headlines, Summary
 
-- **Picture:** ![Profile Picture]WhatsApp Image 2024-05-02 at 06.54.09_853c3cb4.jpg
+- **Picture:** ![Profile Picture](https://github.com/yourusername/yourrepository/blob/main/WhatsApp%20Image%202024-05-02%20at%2006.54.09_853c3cb4.jpg)
 - **Headlines:** Second Year Software Engineering Student in UTM
 - **Summary:** Passionate about leveraging technology to solve real-world problems.
 
@@ -56,4 +54,19 @@ Sotware Engineering Student At Student in Universiti Teknologi Malaysia
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Hanan20x" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/hanan_osama_793" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/Hanan20x" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="http://www.instagram.com/hanan_osama_793" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
