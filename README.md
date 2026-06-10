@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/Hanan20x/Hanan20x/assets/142499378/020eb398-2bb4-49d5-b8d0-f164e4cd5d79" width="120" height="120" style="border-radius:50%;" alt="Hanan Osama"/>
+  <img src="https://github.com/Hanan20x/Hanan20x/assets/142499378/020eb398-2bb4-49d5-b8d0-f164e4cd5d79" width="180" height="180" style="border-radius:50%;" alt="Hanan Osama"/>
 
-  <h1>Hi, I'm Hanan Osama Hussein Salah 👋</h1>
+  <h1>Hi, I'm Hanan Osama Salah 👋</h1>
 
   <p>
     <strong>B.Sc (Hons.) Software Engineering</strong> · Universiti Teknologi Malaysia · Class of 2027<br/>
@@ -12,8 +12,6 @@
     <a href="mailto:slahhnan040@gmail.com"><img src="https://img.shields.io/badge/Gmail-slahhnan040%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="mailto:hussein.h@graduate.utm.my"><img src="https://img.shields.io/badge/UTM-hussein.h%40graduate.utm.my-blue?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="https://linkedin.com/in/hanan-salah"><img src="https://img.shields.io/badge/LinkedIn-hanan--salah-0A66C2?style=flat-square&logo=linkedin"/></a>
-    <a href="https://github.com/Hanan20x"><img src="https://img.shields.io/badge/GitHub-Hanan20x-181717?style=flat-square&logo=github"/></a>
-    <a href="http://www.instagram.com/hanan_osama_793"><img src="https://img.shields.io/badge/Instagram-hanan__osama__793-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   </p>
 
   <p>
