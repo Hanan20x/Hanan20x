@@ -15,8 +15,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Johor%20Bahru%20%7C%20On--site%20%7C%20Hybrid-68d391?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Phone-%2B60%20187782179-gray?style=flat-square&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Work-On--site%20%7C%20Hybrid-68d391?style=flat-square"/>
     <img src="https://komarev.com/ghpvc/?username=Hanan20x&style=flat-square&color=63b3ed"/>
   </p>
 </div>
@@ -25,7 +24,6 @@
 
 ## 🌍 About Me
 
-- 📍 Based in **Skudai, Johor Bahru, Malaysia**
 - 🎓 Final-year **B.Sc (Hons.) Software Engineering** at UTM — Class of 2027
 - 🤖 Building AI-powered full-stack systems — RAG pipelines, autonomous agents, real-time architectures
 - 🌱 Currently learning **React**, **Angular**, and deepening skills in **LangChain** and cloud AI
