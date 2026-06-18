@@ -82,7 +82,7 @@
 
 ---
 
-### 🚁 Project Overlord — Drone Swarm Management *(VHACK 2026 Finalist 🏆)*
+### 🚁 Drone Swarm Management System *(VHACK 2026 Finalist 🏆)*
 > Decentralized drone swarm with hybrid LLM planning (Gemini + Ollama), circuit-breaker logic, RAG mission memory, MCP tool-calling, YOLOv8n computer vision.
 
 `Three.js` `YOLOv8` `Gemini` `Ollama` `MCP` `Laravel`
