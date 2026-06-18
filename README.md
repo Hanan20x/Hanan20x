@@ -92,14 +92,14 @@
 ### 🌱 MindBloom — Mental Health Literacy Hub
 > Centralized digital platform giving undergraduate students one place for mental health resources, self-assessment quizzes, and counselor booking. Features an anonymous, counselor-moderated peer support forum and AI-driven content suggestions, addressing the gap left by slow, non-interactive campus support systems.
 
-`Spring MVC` `Thymeleaf` `Flutter` `Dart` `Use-Case Modeling` `Database`
+`Spring MVC` `Thymeleaf` `Use-Case Modeling` `Database`
 
 ---
 
 ### 📚 LearnLoop — Smart Tutor Booking Application
 > Tutor-student matching platform built around the theme "Connect. Learn. Grow." Supports registration/login, personalized profiles, session scheduling with editable availability, tutor ratings and session history, notifications, and secure payments. Built as a 4-person team project (Developer role).
 
-`Mobile App` `Booking System` `User Roles` `Notifications`
+`Flutter` `Dart` `Booking System` `User Roles` `Notifications`
 
 ---
 
