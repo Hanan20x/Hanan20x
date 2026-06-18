@@ -16,7 +16,6 @@
 
   <p>
     <img src="https://img.shields.io/badge/Open%20to%20Work-On--site%20%7C%20Hybrid-68d391?style=flat-square"/>
-    <img src="https://komarev.com/ghpvc/?username=Hanan20x&style=flat-square&color=63b3ed"/>
   </p>
 </div>
 
@@ -29,8 +28,6 @@
 - 🌱 Currently learning **React**, **Angular**, and deepening skills in **LangChain** and cloud AI
 - 🏆 **VHACK 2026 Varsity Hackathon Finalist** — Universiti Sains Malaysia
 - 🤝 Open to collaborations — especially AI, health-tech, edtech, and sustainability
-- 🔗 500+ LinkedIn connections
-- 🗣️ **English** · **Arabic** (native) · **Mandarin** (basic)
 
 ---
 
@@ -64,8 +61,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 **Tools & DevOps**
 
@@ -94,88 +89,17 @@
 
 ---
 
-### 🚚 AI-Enhanced Incident Reporting System *(DHL DACHallenge)*
-> Full-stack incident tool with Claude API AI triage, UiPath RPA report routing, React + Laravel stack.
+### 🌱 MindBloom — Mental Health Literacy Hub
+> Centralized digital platform giving undergraduate students one place for mental health resources, self-assessment quizzes, and counselor booking. Features an anonymous, counselor-moderated peer support forum and AI-driven content suggestions, addressing the gap left by slow, non-interactive campus support systems.
 
-`Laravel` `React` `Claude API` `UiPath RPA`
-
----
-
-### 🎉 EaseEvent — UTM Event Platform
-> Web-based event management platform with 3-tier architecture, dynamic dashboard, and XAMPP hosting.
-
-`PHP` `MySQL` `JavaScript` `HTML/CSS` `XAMPP`
+`Spring MVC` `Thymeleaf` `Flutter` `Dart` `Use-Case Modeling` `Database`
 
 ---
 
-### 🌿 CarbonTrackPro — Carbon Emission Monitor
-> Low-carbon tracking system replacing manual workflows, with automated calculations and community dashboard.
+### 📚 LearnLoop — Smart Tutor Booking Application
+> Tutor-student matching platform built around the theme "Connect. Learn. Grow." Supports registration/login, personalized profiles, session scheduling with editable availability, tutor ratings and session history, notifications, and secure payments. Built as a 4-person team project (Developer role).
 
-`System Analysis & Design` `Database` `OOP`
-
----
-
-### 🚗 Vehicle Rental Management System
-> Java OOP system automating vehicle rental, customer, and maintenance records with real-time tracking.
-
-`Java` `OOP` `Git`
-
----
-
-### 🍱 NourishNet — Smart Food Distribution *(SDG 2)*
-> Modular food distribution platform for NGOs, donors, and communities. Addresses UN SDG 2 (Zero Hunger).
-
-`Java` `OOP`
-
----
-
-### 📖 My Book Nook
-> Personal book tracking app with reading progress management and responsive UI.
-
-`React` `Node.js` `Express`
-
----
-
-## 💼 Experience
-
-| Role | Organisation | Period |
-|---|---|---|
-| Member | Institution of Engineers Malaysia (IEM) | Dec 2025 – Present |
-| Event Unit Member | Airost UTM | Jan 2026 – Jun 2026 |
-| Creative Marketing Core Team | GDG on Campus UTM | Dec 2025 – May 2026 |
-| Public Relations Officer | IndabaX Sudan 2025 | Oct – Dec 2025 |
-| Core Java Developer Intern | upSkill Campus | Sep – Dec 2025 |
-| Organizing Committee (Echo 7.0, LB 3.0, YSF 2025) | AIESEC | Apr – Aug 2025 |
-| MYV Volunteer — ECHO 5.0 | AIESEC | Jul – Aug 2024 |
-| Main Performer — Arabic Culture Day | ISS-SUDAN | Oct – Nov 2024 |
-| Head of Technical Support — SUDART | ISS-SUDAN | Apr 2024 |
-| Organizer — Techno Coding Competition | ISS-SUDAN | May 2024 |
-| Member of the Academic Committee | ISS-SUDAN / UTM | Apr 2023 – Mar 2024 |
-
----
-
-## 🎓 Education
-
-| Institution | Programme | Period |
-|---|---|---|
-| **Universiti Teknologi Malaysia (UTM)** | B.Sc (Hons.) Software Engineering | Mar 2023 – Feb 2027 |
-| University of Khartoum | Mathematics / Computer Science | 1 year |
-| Omdurman Secondary School | — | 1 year |
-| Alraith Elementary & Secondary School | Saudi Arabia | — |
-
----
-
-## 📜 Certifications (23+)
-
-**Hackathon** · VHACK Finalist · VHACK Preliminary Qualifier · UM TECHNOTHON Participant
-
-**AI & Cloud** · Introduction to Python (DataCamp) · AWS AI Practitioner Challenge (Udacity) · Generative AI for Everyone (DeepLearning.AI) · Microsoft Azure AI Fundamentals · Semiconductor Characterization (ASU)
-
-**IBM** · Data Science & Analytics (HP LIFE) · Delivering Quality Work with Agility · Collaborate Effectively for Professional Success · Introduction to Software Engineering · Java Programming for Beginners
-
-**Design & Product** · Figma Micro Interaction Design (Simplilearn) · Agile Project Management (HP LIFE) · CX for Business Success (HP LIFE) · AI for Beginners (HP LIFE) · Research Methods (SOAS) · Dream Internship Workshop (Elite Global)
-
-**Programming** · Full-Stack Web Dev — Angela Yu (Udemy) · Learn C++ — Abdul Bari (Udemy) · Pre-Programming — Evan Kimbrel (Udemy)
+`Mobile App` `Booking System` `User Roles` `Notifications`
 
 ---
 
