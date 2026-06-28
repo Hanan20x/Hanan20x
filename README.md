@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Hanan20x/Hanan20x/assets/142499378/020eb398-2bb4-49d5-b8d0-f164e4cd5d79" width="180" height="180" style="border-radius:50%;" alt="Hanan Osama"/>
 
-  <h1>Hi, I'm Hanan Osama Salah 👋</h1>
+  <h1>Hi, I'm Hanan Osama Hussein Salah 👋</h1>
 
   <p>
     <strong>B.Sc (Hons.) Software Engineering</strong> · Universiti Teknologi Malaysia · Class of 2027<br/>
